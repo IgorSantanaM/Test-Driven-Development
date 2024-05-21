@@ -1,0 +1,15 @@
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\bin\Debug\net8.0\DeskBooker.DataAccess.deps.json
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\bin\Debug\net8.0\DeskBooker.DataAccess.dll
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\bin\Debug\net8.0\DeskBooker.DataAccess.pdb
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\bin\Debug\net8.0\DeskBooker.Core.dll
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\bin\Debug\net8.0\DeskBooker.Core.pdb
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBooker.DataAccess.csproj.AssemblyReference.cache
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBooker.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBooker.DataAccess.AssemblyInfoInputs.cache
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBooker.DataAccess.AssemblyInfo.cs
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBooker.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBook.1FB70E30.Up2Date
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBooker.DataAccess.dll
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\refint\DeskBooker.DataAccess.dll
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\DeskBooker.DataAccess.pdb
+C:\Users\paulo.kinjo\Downloads\Igor\TestDrivenDevelopment\DeskBooker.DataAccess\obj\Debug\net8.0\ref\DeskBooker.DataAccess.dll
