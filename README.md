@@ -30,7 +30,4 @@ The `PlusMinusCalculator` calculates the ratios of positive, negative, and zero 
   - Proportion of negative values
   - Proportion of zeros
 
-### Example
-
-**Input:**
 
